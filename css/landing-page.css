@@ -4,6 +4,14 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-landing-page/blob/master/LICENSE)
  */
 
+.underline {
+  text-decoration: underline;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
